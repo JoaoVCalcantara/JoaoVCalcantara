@@ -1,4 +1,4 @@
-Olá! Me chamo João Vitor Costa Alcantara
+Me chamo João Vitor 
 Cursando ensino superior em ADS - 3º Semestre
 Conhecimento em back-end, front-end e banco de dados
  Estudando: Java, JS, Git, Swift, React.js, HTML, CSS
